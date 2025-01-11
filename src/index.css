@@ -1,0 +1,27 @@
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.input-container {
+  margin-bottom: 20px; 
+}
+
+ul {
+  list-style-type: none; 
+  padding: 0;
+}
+
+li {
+  margin-bottom: 10px; 
+  padding: 10px; 
+  border: 1px solid #ccc;
+  display: flex;
+  align-items: center; 
+}
+
+.completed {
+  text-decoration: line-through;
+  opacity: 0.6; 
+}
