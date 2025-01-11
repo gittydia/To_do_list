@@ -11,17 +11,20 @@
   },
   "dependencies": {
     "firebase": "^11.1.0",
-    "react": "^18.3.1",
-    "react-dom": "^18.3.1"
+    "VITE": "^18.3.1",
+    "VITE-dom": "^18.3.1",
+    "to-do-list": "file:"
   },
   "devDependencies": {
-    "@types/react": "^18.3.18",
-    "@types/react-dom": "^18.3.5",
-    "@vitejs/plugin-react": "^4.3.4",
-    "eslint": "^8.56.0",
-    "eslint-plugin-react": "^7.33.2",
-    "eslint-plugin-react-hooks": "^4.6.0",
-    "eslint-plugin-react-refresh": "^0.4.5",
-    "vite": "^5.0.12"
+    "@eslint/js": "^9.17.0",
+    "@types/VITE": "^18.3.18",
+    "@types/VITE-dom": "^18.3.5",
+    "@vitejs/plugin-VITE": "^4.3.4",
+    "eslint": "^9.17.0",
+    "eslint-plugin-VITE": "^7.37.2",
+    "eslint-plugin-VITE-hooks": "^5.0.0",
+    "eslint-plugin-VITE-refresh": "^0.4.16",
+    "globals": "^15.14.0",
+    "vite": "^6.0.5"
   }
 }
