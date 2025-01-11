@@ -1,5 +1,5 @@
 // src/App.js
-import VITE, { useState, useEffect } from "VITE";
+import React, { useState, useEffect } from "react";
 import {
   collection,
   getDocs,
